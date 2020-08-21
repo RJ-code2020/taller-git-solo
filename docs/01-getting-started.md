@@ -1,7 +1,7 @@
 ---
 id: 01-getting-started
 title: Usando Git en equipo
-sidebar_label: Sidebar label
+sidebar_label: Usando Git en equipo
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

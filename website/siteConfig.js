@@ -22,25 +22,25 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
-  tagline: 'A website for testing',
-  url: process.env.URL || 'https://DanielGuzmanT.github.io', // Your website URL
-  baseUrl: process.env.BASE_URL || '/example-docusaurus/', // Base URL for your project */
+  title: 'Taller de Git 🚀', // Title for your website.
+  tagline: 'Documentación sobre lo visto en el taller de Git organizado por la AAII :)',
+  url: process.env.URL, // Your website URL
+  baseUrl: process.env.BASE_URL, // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: process.env.PROJECT_NAME || 'example-docusaurus',
-  organizationName: process.env.ORGANIZATION_NAME || 'DanielGuzmanT',
+  projectName: process.env.PROJECT_NAME,
+  organizationName: process.env.ORGANIZATION_NAME,
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'lesson-1', label: 'Docs'},
-    {doc: 'lesson-3', label: 'API'},
+    {doc: '01-getting-started', label: 'Docs'},
+    {doc: 'api-docs', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
