@@ -2,7 +2,8 @@
   "docs": {
     "Taller Git": [
       "01-getting-started",
-      "02-adding-docs"
+      "02-adding-docs",
+      "04-config"
     ],
     "Team": [
       "03-challenge"
