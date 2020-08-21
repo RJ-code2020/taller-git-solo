@@ -1,0 +1,13 @@
+{
+  "docs": {
+    "Taller Git": [
+      "01-getting-started",
+      "02-adding-docs"
+    ]
+  },
+  "docs-other": {
+    "Other Category": [
+      "lesson-3"
+    ]
+  }
+}
