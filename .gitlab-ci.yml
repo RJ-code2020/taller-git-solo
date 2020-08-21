@@ -5,7 +5,7 @@ pages:
     - cd website
     - yarn install
     - yarn build
-    - mv ./build/<project-name> ../public
+    - mv ./build/git-saurus ../public
   artifacts:
     paths:
       - public
